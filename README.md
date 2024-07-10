@@ -1,4 +1,4 @@
-# **ASCII ART**
+# ascii art
 
 Program to convert a string into a graphic representation using ASCII.
 
