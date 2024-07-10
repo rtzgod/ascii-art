@@ -1,6 +1,6 @@
 # ascii art
 
-Program to convert a string into a graphic representation using ASCII.
+Program to convert a string into ASCII art.
 
 ## Installation
 1. Clone repository
