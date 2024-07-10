@@ -1,5 +1,6 @@
 # **ASCII ART**
-Program which consists in receiving a string and outputting the string in a graphic representation using ASCII.
+01 edu project
+Program to convert a string into a graphic representation using ASCII..
 ## Installation
 1. Clone repository
 ```bash
