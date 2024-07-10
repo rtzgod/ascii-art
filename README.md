@@ -1,5 +1,7 @@
 # **ASCII ART**
+
 01 edu project
+
 Program to convert a string into a graphic representation using ASCII..
 ## Installation
 1. Clone repository
